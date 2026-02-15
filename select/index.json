@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "とんぼ",
+  "base_artist": "長渕剛",
+  "createdAt": "2026-02-15T07:43:58.912621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "とんぼ",
+      "artist": "Tsuyoshi Nagabuchi",
+      "has_synced": false,
+      "path": "select/01_とんぼ_Tsuyoshi_Nagabuchi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "とんぼ",
+      "artist": "長渕剛",
+      "has_synced": false,
+      "path": "select/02_とんぼ_長渕剛.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "とんぼ",
+      "artist": "長渕剛",
+      "has_synced": true,
+      "path": "select/03_とんぼ_長渕剛.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "とんぼ",
+      "artist": "長渕剛",
+      "has_synced": true,
+      "path": "select/04_とんぼ_長渕剛.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "とんぼ",
+      "artist": "長渕剛",
+      "has_synced": true,
+      "path": "select/05_とんぼ_長渕剛.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "とんぼ - (「長渕 剛 アコースティック 俺の太陽」より)",
+      "artist": "Tsuyoshi Nagabuchi",
+      "has_synced": true,
+      "path": "select/06_とんぼ_-_(「長渕_剛_アコースティック_俺の太陽」より)_Tsuyoshi_Nagabuchi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "01 とんぼ",
+      "artist": "長渕剛",
+      "has_synced": true,
+      "path": "select/07_01_とんぼ_長渕剛.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "とんぼ",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/08_とんぼ_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "とんぼ [Live]",
+      "artist": "長渕剛",
+      "has_synced": false,
+      "path": "select/09_とんぼ_[Live]_長渕剛.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とんぼ",
+      "artist": "長渕 剛",
+      "has_synced": false,
+      "path": "select/pl_01_とんぼ_長渕_剛.txt"
+    }
+  ]
+}
